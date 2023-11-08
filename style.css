@@ -1,0 +1,13 @@
+:root {
+    --blue: #9347ff;
+    --pink: #ff6589;
+    --primary: var(--pink);
+}
+
+body {
+    background-color: var(--primary);
+}
+
+.light{
+    
+}

@@ -21,7 +21,7 @@ const num2 = Number(prompt ("enter a number"));
 
 /* add(num1, num2) */
 
-x = 7;
+/* x = 7;
 y = 8;
 function add(x,y){
     console.log(x + y);
@@ -32,4 +32,4 @@ function test() {
     const y = 20;
     add (x, y);
 }
-
+ */

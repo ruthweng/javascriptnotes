@@ -1,4 +1,4 @@
-function fibonacciWithForLoop(n) {
+/* function fibonacciWithForLoop(n) {
     let previous = 0;
     let current = 1;
 
@@ -12,4 +12,4 @@ function fibonacciWithForLoop(n) {
     }
     return current;
 }
-fibonacciWithForLoop(45);
+fibonacciWithForLoop(45); */

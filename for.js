@@ -1,4 +1,4 @@
-// for (let i = 0; i < 7; i++) {
+/* // for (let i = 0; i < 7; i++) {
 //     console.log(i);
 //     for (let j = 0; j < 3; j++) {
 //         console.log(j);
@@ -12,7 +12,7 @@
 }
 */
 
-const numsArr = [
+/* const numsArr = [
     1, 2, 3, 4, 5, 6, 7 , 8, 9
 ];
 
@@ -32,4 +32,4 @@ function linearSearch(num, arr) {
     console.log(found);
     return found;
 }
-linearSearch(72, numsArr);
+linearSearch(72, numsArr); */ */

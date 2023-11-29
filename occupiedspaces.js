@@ -1,4 +1,4 @@
-spaces(5, "CC..C", ".CC..");
+/* spaces(5, "CC..C", ".CC..");
 function spaces(s, y, t) {
     let occupied = 0;
     for(let i = 0; i < s; i++){
@@ -7,4 +7,4 @@ function spaces(s, y, t) {
         }
     }
     console.log(occupied);
-}
+} */
